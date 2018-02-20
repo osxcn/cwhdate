@@ -1,0 +1,27 @@
+{
+  "name": "hm-cwhdate",
+  "realname": "cwhdate",
+  "version": "0.0.1",
+  "description": "假日调休控件",
+  "main": "src/cwhdate",
+  "repository": {
+    "type": "https",
+    "url": "git+https://github.com/osxcn/cwhdate.git"
+  },
+  "author": "偶是小菜鸟",
+  "homepage": "http://www.osxcn.com.cn/cwhdate",
+  "bugs": {
+    "url": "https://github.com/osxcn/cwhdate/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "keywords": [
+    "cwhdate",
+    "work",
+    "holiday",
+    "date",
+    "calendar"
+  ]
+}
