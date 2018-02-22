@@ -1,0 +1,12 @@
+/**
+ * @name: cwhDate
+ * @author: 偶是小菜鸟
+ */
+
+html #cwhdatecss-cwhdate{display: none; position: absolute; width: 1989px;}
+
+/* 初始化 */
+.cwhdate * {margin: 0px;padding: 0px;}
+
+/* 主体结构 */
+.cwhdate, .cwhdate *{box-sizing: border-box;}
